@@ -116,6 +116,11 @@ p {
   max-height: 40px;
 }
 
+.headshot {
+  max-width: 70%;
+  margin-left: 100px;
+}
+
 nav {
   padding: 20px 0;
 }
@@ -208,5 +213,9 @@ footer .social-links a:hover {
   .project-description {
     padding: 0;
     text-align: center;
+  }
+
+  .headshot {
+    margin: 0;
   }
 }
